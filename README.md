@@ -44,6 +44,6 @@ I am Xiaofan Sun, a compiler engineer and program language researcher.
 
 ## Mini Games
 
-[![](https://github-readme-stats-sunxfancy.vercel.app/api/pin/?username=sunxfancy&repo=xiangqi-jai)](https://github.com/sunxfancy/xiangqi-jai) [![](https://github-readme-stats-sunxfancy.vercel.app/api/pin/?username=sunxfancy&repo=Gtk2048)](https://github.com/sunxfancy/Gtk2048) [![](https://github-readme-stats-sunxfancy.vercel.app/api/pin/?username=sunxfancy&repo=GtkFir)](https://github.com/sunxfancy/GtkFir)  
+[![](https://github-readme-stats-sunxfancy.vercel.app/api/pin/?username=danieltan1517&repo=orange-xiangqi)](https://github.com/danieltan1517/orange-xiangqi) [![](https://github-readme-stats-sunxfancy.vercel.app/api/pin/?username=sunxfancy&repo=Gtk2048)](https://github.com/sunxfancy/Gtk2048) [![](https://github-readme-stats-sunxfancy.vercel.app/api/pin/?username=sunxfancy&repo=GtkFir)](https://github.com/sunxfancy/GtkFir)  
  
 
