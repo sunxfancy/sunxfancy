@@ -40,6 +40,7 @@ I am Xiaofan Sun, a compiler engineer and program language researcher.
 
 ## Online Tools
 [![](https://github-readme-stats-sunxfancy.vercel.app/api/pin/?username=sunxfancy&repo=clang-format-wasm)](https://github.com/sunxfancy/clang-format-wasm) [![](https://github-readme-stats-sunxfancy.vercel.app/api/pin/?username=sunxfancy&repo=ShellEditor-Web)](https://github.com/sunxfancy/ShellEditor-Web)
+[![](https://github-readme-stats-sunxfancy.vercel.app/api/pin/?username=sunxfancy&repo=EverythingWasm)](https://github.com/sunxfancy/EverythingWasm) 
 
 ## Ideas
 [![](https://github-readme-stats-sunxfancy.vercel.app/api/pin/?username=sunxfancy&repo=LLVMCodeRunner)](https://github.com/sunxfancy/LLVMCodeRunner) [![](https://github-readme-stats-sunxfancy.vercel.app/api/pin/?username=sunxfancy&repo=FSMLanguage)](https://github.com/sunxfancy/FSMLanguage) 
