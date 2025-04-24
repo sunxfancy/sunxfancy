@@ -26,6 +26,9 @@ I am Xiaofan Sun, a compiler engineer and program language researcher.
 ## Testing
 [![](https://github-readme-stats-eight-omega-20.vercel.app/api/pin/?username=sunxfancy&repo=zeroerr)](https://github.com/sunxfancy/zeroerr) 
 
+## Generative AI Tools
+[![](https://github-readme-stats-eight-omega-20.vercel.app/api/pin/?username=sunxfancy&repo=SSUI)](https://github.com/sunxfancy/SSUI) 
+
 ## C/C++ Utils
 [![](https://github-readme-stats-eight-omega-20.vercel.app/api/pin/?username=sunxfancy&repo=ECS.hpp)](https://github.com/sunxfancy/ECS.hpp) [![](https://github-readme-stats-eight-omega-20.vercel.app/api/pin/?username=sunxfancy&repo=ExIconv)](https://github.com/sunxfancy/ExIconv) [![](https://github-readme-stats-eight-omega-20.vercel.app/api/pin/?username=sunxfancy&repo=estring)](https://github.com/sunxfancy/estring)  [![](https://github-readme-stats-eight-omega-20.vercel.app/api/pin/?username=sunxfancy&repo=DSViz)](https://github.com/sunxfancy/DSViz) [![](https://github-readme-stats-eight-omega-20.vercel.app/api/pin/?username=sunxfancy&repo=VKBuilder)](https://github.com/sunxfancy/VKBuilder) [![](https://github-readme-stats-eight-omega-20.vercel.app/api/pin/?username=sunxfancy&repo=SmartPtr)](https://github.com/sunxfancy/SmartPtr) [![](https://github-readme-stats-eight-omega-20.vercel.app/api/pin/?username=sunxfancy&repo=Clist)](https://github.com/sunxfancy/Clist) 
 
